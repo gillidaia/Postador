@@ -1,0 +1,9 @@
+1 - Create a folder on your host file manager
+2 - Upload the kingposter.zip file to the folder your created
+3 - Extract the zip file
+
+Watch the video tutorial
+https://www.youtube.com/watch?v=zBM_D-dXyVs
+
+Check the Documenation on how to complete the installation
+http://pandisoft.com/kingposter/doc/installation
